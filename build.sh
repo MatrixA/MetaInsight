@@ -1,0 +1,1 @@
+forge script script/Main.s.sol --rpc-url sepolia --broadcast -vvvv
